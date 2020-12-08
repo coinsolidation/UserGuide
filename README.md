@@ -1,4 +1,4 @@
 # UserGuide
-User`s Guide Extensions CoinSolidation
+Ready to use the User`s Guide Extensions CoinSolidation
 
-Coming Soon - December, 30 2020
+Coming Soon - Cryptocurrency COINsolidation lauch January, 31 2020.
