@@ -1,5 +1,5 @@
 # UserGuide
-Ready to use the User`s Guide Extensions CoinSolidation (Manual in Spanish, English, France, German, Chinese, Italy, Portugues, Japan and Other)
+Ready to use the User`s Guide Extensions CoinSolidation - Directory "Ethereum" with Manual in Spanish, English, France, German, Chinese, Italy, Portugues, Japan and Other...
 
 Cryptocurrency COINsolidation lauch April, 30 2021.
 
